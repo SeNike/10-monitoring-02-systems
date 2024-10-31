@@ -100,6 +100,15 @@
 *VictoriaMetrics	- Гибридная (в основном Pull)*
 *Nagios	        - Pull (с поддержкой Push через плагины)*
 
+| Система | Тип |
+|-------------|-------------|
+| *Prometheus*| *Гибридная (в основном Pull)*|
+| *TICK*| *Push*|
+| *Zabbixs*| *Гибридная (Pull и Push)*|
+| *VictoriaMetrics*| *Гибридная (в основном Pull)*|
+| *Nagios*| *Pull (с поддержкой Push через плагины)*|
+
+
 #
 7. Склонируйте себе [репозиторий](https://github.com/influxdata/sandbox/tree/master) и запустите TICK-стэк, 
 используя технологии docker и docker-compose.
