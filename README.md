@@ -102,8 +102,8 @@ Push-система мониторинга
     - Nagios
 
 ```
-Prometheus      -	Гибридная (в основном Pull)
-TICK	          - Push
+Prometheus      - Гибридная (в основном Pull)
+TICK	        - Push
 Zabbix	        - Гибридная (Pull и Push)
 VictoriaMetrics	- Гибридная (в основном Pull)
 Nagios	        - Pull (с поддержкой Push через плагины)
