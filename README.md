@@ -112,6 +112,9 @@
 
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
+
+![img](https://github.com/SeNike/Study_24/blob/main/monitoring/1.png)
+
 #
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
         
